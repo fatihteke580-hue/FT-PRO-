@@ -1,0 +1,6 @@
+{
+  "name": "FT 8353 KALE",
+  "description": "C tabanlı güvenli blok veri işleme ve kriptografik KALE savunma hiyerarşisi simülatörü.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
